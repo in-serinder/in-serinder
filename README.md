@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @in-serinder
-- 👀 计算机安全向爱好者
-- 🌱 学习方向于网络安全
+- 👀 life
+- 🌱 life
 - 💞️ I’m looking to collaborate on ...
 - 📫serinder@163.com or serinder@126.com
 
