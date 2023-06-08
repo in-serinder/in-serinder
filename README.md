@@ -1,6 +1,6 @@
                    -`                 
                   .o+`                 root@serinderArch
-                 `ooo/                 OS: Arch Linux rolling rolling
+                 `ooo/                 OS: Arch Linux rolling
                 `+oooo:                Kernel: x86_64 Linux 6.1.12-arch1-1
                `+oooooo:               Uptime: 3m
                -+oooooo+:              Packages: 1085
