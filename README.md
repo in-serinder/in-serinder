@@ -4,8 +4,8 @@
 ![](https://raw.githubusercontent.com/in-serinder/statsuse/master/generated/languages.svg)
 
 <a href="https://github.com/jstrieb/github-stats">
-<img src="https://raw.githubusercontent.com/in-serinder/statsuse/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/in-serinder/statsuse/master/generated/languages.svg#gh-dark-mode-only" />
+<!-- <img src="https://raw.githubusercontent.com/in-serinder/statsuse/master/generated/overview.svg#gh-dark-mode-only" /> -->
+<!-- <img src="https://raw.githubusercontent.com/in-serinder/statsuse/master/generated/languages.svg#gh-dark-mode-only" /> -->
 </a>
 
 
