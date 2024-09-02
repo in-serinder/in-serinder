@@ -1,5 +1,8 @@
 # just a beginner
 
+![](generated/overview.svg)
+![](generated/languages.svg)
+
 ![](https://raw.githubusercontent.com/in-serinder/statsuse/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/in-serinder/statsuse/master/generated/languages.svg)
 
