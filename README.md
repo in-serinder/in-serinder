@@ -1,6 +1,6 @@
 # just a beginner
-![a](https://raw.githubusercontent.com/in-serinder/statsuse/master/generated/overview.svg#gh-dark-mode-only)
-![a](https://raw.githubusercontent.com/in-serinder/statsuse/master/generated/languages.svg#gh-dark-mode-only)
+![a](https://raw.githubusercontent.com/in-serinder/statsuse/master/generated/overview.svg #gh-dark-mode-only)
+![a](https://raw.githubusercontent.com/in-serinder/statsuse/master/generated/languages.svg #gh-dark-mode-only)
 ---
 ![Static Badge](https://img.shields.io/badge/Proficient-Linux-blue?logo=archlinux)
 ![Static Badge](https://img.shields.io/badge/Competent-javascript-%23F7DF1E?logo=javascript)
