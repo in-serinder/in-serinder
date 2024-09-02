@@ -1,4 +1,6 @@
 # just a beginner
+![](https://raw.githubusercontent.com/in-serinder/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/in-serinder/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![Static Badge](https://img.shields.io/badge/Proficient-Linux-blue?logo=archlinux)
 ![Static Badge](https://img.shields.io/badge/Competent-javascript-%23F7DF1E?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/Competent-Docker-%232496ED?logo=docker)
