@@ -1,7 +1,9 @@
 # just a beginner
 
-![](https://raw.githubusercontent.com/in-serinder/statsuse/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/in-serinder/statsuse/master/generated/languages.svg)
+![](generated/overview.svg)
+![](generated/languages.svg)
+
+
 
 <a href="https://github.com/jstrieb/github-stats">
 <!-- <img src="https://raw.githubusercontent.com/in-serinder/statsuse/master/generated/overview.svg#gh-dark-mode-only" /> -->
