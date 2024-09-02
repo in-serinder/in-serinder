@@ -3,8 +3,7 @@
 ![](generated/overview.svg)
 ![](generated/languages.svg)
 
-![](https://raw.githubusercontent.com/in-serinder/statsuse/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/in-serinder/statsuse/master/generated/languages.svg)
+
 
 <a href="https://github.com/jstrieb/github-stats">
 <!-- <img src="https://raw.githubusercontent.com/in-serinder/statsuse/master/generated/overview.svg#gh-dark-mode-only" /> -->
