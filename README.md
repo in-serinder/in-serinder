@@ -13,7 +13,7 @@
 
 ---
 ![Static Badge](https://img.shields.io/badge/Proficient-Linux-blue?logo=archlinux)
-![Static Badge](https://img.shields.io/badge/Blender%20-%20Conpetent%20-%23E87D0D?logo=blender&logoColor=%23E87D0D)
+![Static Badge](https://img.shields.io/badge/%20Conpetent%20-%20Blender-%23E87D0D?logo=blender&logoColor=%23E87D0D)
 ![Static Badge](https://img.shields.io/badge/Competent-javascript-%23F7DF1E?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/Competent-Docker-%232496ED?logo=docker)
   
