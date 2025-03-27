@@ -1,4 +1,4 @@
-# just a beginner
+9# just a beginner
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=in-serinder)](https://github.com/in-serinder/github-readme-stats)
 
@@ -15,7 +15,7 @@
 
 ---
 ![Static Badge](https://img.shields.io/badge/Proficient-Linux-blue?logo=archlinux)
-![Static Badge](https://img.shields.io/badge/%20Conpetent%20-%20Blender-%23E87D0D?logo=blender&logoColor=%23E87D0D)
+![Static Badge](https://img.shields.io/badge/%20Competent%20-%20Blender-%23E87D0D?logo=blender&logoColor=%23E87D0D)
 ![Static Badge](https://img.shields.io/badge/Competent-javascript-%23F7DF1E?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/Competent-Docker-%232496ED?logo=docker)
   
