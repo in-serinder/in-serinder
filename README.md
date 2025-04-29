@@ -1,4 +1,4 @@
-9# just a beginner
+# just a beginner
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=in-serinder)](https://github.com/in-serinder/github-readme-stats)
 
