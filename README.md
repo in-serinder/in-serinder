@@ -21,4 +21,5 @@
   
 ![Static Badge](https://img.shields.io/badge/Master-Python-%2350fe43?logo=python)
 ![Static Badge](https://img.shields.io/badge/Understand-VUE-%234FC08D?logo=vuedotjs)
-![Static Badge](https://img.shields.io/badge/Familiar-Java-%23F80000?logo=oracle)
+![Static Badge](https://img.shields.io/badge/Familiar-Java-%23FF3333?logo=coffeescript)
+
