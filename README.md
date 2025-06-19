@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=in-serinder)](https://github.com/in-serinder/github-readme-stats)
 
-![local](generated/overview.svg)
+![repo](generated/overview.svg)
 ![local](generated/languages.svg)
 
 
