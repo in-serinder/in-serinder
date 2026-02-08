@@ -14,6 +14,7 @@
 
 
 ---
+
 ![Static Badge](https://img.shields.io/badge/Proficient-Linux-blue?logo=archlinux)
 ![Static Badge](https://img.shields.io/badge/Understand-Embedded-%230091BD?logo=arm)
 ![Static Badge](https://img.shields.io/badge/%20Competent%20-%20Blender-%23E87D0D?logo=blender&logoColor=%23E87D0D)
